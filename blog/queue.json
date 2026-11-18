@@ -3,14 +3,6 @@
   "updated": "2026-11-18",
   "awaiting": [
     {
-      "slug": "kak-prohodit-pervaya-sessiya-psihologa-onlajn",
-      "path": "articles/kak-prohodit-pervaya-sessiya-psihologa-onlajn.md",
-      "title": "Как проходит первая сессия с психологом онлайн: что будет и как подготовиться",
-      "description": "Как проходит первая онлайн-сессия с психологом: подготовка, 50 минут разговора, вопросы, которые зададут, и что делать, если страшно начинать.",
-      "reading_time": "10 мин чтения",
-      "preview_url": "https://verapal.ru/blog/preview/d620019850de/kak-prohodit-pervaya-sessiya-psihologa-onlajn/"
-    },
-    {
       "slug": "kogda-pora-k-psihologu",
       "path": "articles/kogda-pora-k-psihologu.md",
       "title": "Когда пора к психологу: 9 признаков и что делать дальше",
@@ -28,5 +20,12 @@
     }
   ],
   "scheduled": [],
-  "published": []
+  "published": [
+    {
+      "slug": "kak-prohodit-pervaya-sessiya-psihologa-onlajn",
+      "title": "Как проходит первая сессия с психологом онлайн: что будет и как подготовиться",
+      "url": "https://verapal.ru/blog/kak-prohodit-pervaya-sessiya-psihologa-onlajn/",
+      "date": "2026-11-18"
+    }
+  ]
 }
