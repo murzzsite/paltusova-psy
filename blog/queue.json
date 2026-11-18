@@ -1,21 +1,17 @@
 {
   "site": "https://verapal.ru",
   "updated": "2026-11-18",
-  "awaiting": [
-    {
-      "slug": "skolko-stoit-seans-psihologa-onlajn",
-      "path": "articles/skolko-stoit-seans-psihologa-onlajn.md",
-      "title": "Сколько стоит сеанс психолога онлайн: разовая сессия или абонемент",
-      "description": "Сколько стоит онлайн-сессия с психологом, чем отличается разовая встреча от абонемента и как выбрать формат, чтобы не переплатить.",
-      "reading_time": "11 мин чтения",
-      "preview_url": "https://verapal.ru/blog/preview/8966ce33c963/skolko-stoit-seans-psihologa-onlajn/"
-    }
-  ],
+  "awaiting": [],
   "scheduled": [
     {
       "slug": "kogda-pora-k-psihologu",
       "title": "Когда пора к психологу: 9 признаков и что делать дальше",
       "date": "2026-11-25"
+    },
+    {
+      "slug": "skolko-stoit-seans-psihologa-onlajn",
+      "title": "Сколько стоит сеанс психолога онлайн: разовая сессия или абонемент",
+      "date": "2026-12-02"
     }
   ],
   "published": [
