@@ -3,14 +3,6 @@
   "updated": "2026-11-18",
   "awaiting": [
     {
-      "slug": "kogda-pora-k-psihologu",
-      "path": "articles/kogda-pora-k-psihologu.md",
-      "title": "Когда пора к психологу: 9 признаков и что делать дальше",
-      "description": "Как понять, что пора обратиться к психологу: девять признаков, чем консультация отличается от разговора с близкими и с чего начать, если страшно.",
-      "reading_time": "11 мин чтения",
-      "preview_url": "https://verapal.ru/blog/preview/068d13e1092e/kogda-pora-k-psihologu/"
-    },
-    {
       "slug": "skolko-stoit-seans-psihologa-onlajn",
       "path": "articles/skolko-stoit-seans-psihologa-onlajn.md",
       "title": "Сколько стоит сеанс психолога онлайн: разовая сессия или абонемент",
@@ -19,7 +11,13 @@
       "preview_url": "https://verapal.ru/blog/preview/8966ce33c963/skolko-stoit-seans-psihologa-onlajn/"
     }
   ],
-  "scheduled": [],
+  "scheduled": [
+    {
+      "slug": "kogda-pora-k-psihologu",
+      "title": "Когда пора к психологу: 9 признаков и что делать дальше",
+      "date": "2026-11-25"
+    }
+  ],
   "published": [
     {
       "slug": "kak-prohodit-pervaya-sessiya-psihologa-onlajn",
