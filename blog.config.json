@@ -1,0 +1,40 @@
+{
+  "siteName": "Вера Палтусова",
+  "siteUrl": "https://verapal.ru",
+  "lang": "ru",
+  "repo": "murzzsite/paltusova-psy",
+  "ref": "99DJYEG9KY",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Статьи психолога Веры Палтусовой о тревоге, отношениях, самооценке и о том, как проходят онлайн-сессии.",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Вера Палтусова",
+    "jobTitle": "Психолог",
+    "type": "Person"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку или напишите в Telegram: коротко расскажите, с чем хочется поработать, и мы обсудим формат и удобное время.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#lead",
+  "disclaimer": "Материал носит информационный характер и не заменяет консультацию специалиста. Если вам тяжело или вы чувствуете, что не справляетесь, обратитесь к психологу или врачу.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/",
+    "/privacy.html"
+  ],
+  "indexNowKey": "d4a7b72f1deaf831c34fe9150e4095d0",
+  "previewSecret": "b17815154386fba0",
+  "theme": {
+    "accent": "var(--clr-accent)",
+    "bg": "var(--clr-bg)",
+    "surface": "var(--clr-surface)",
+    "ink": "var(--clr-accent-dark)",
+    "text": "var(--clr-text)",
+    "soft": "var(--clr-text-soft)",
+    "line": "var(--clr-border)",
+    "accent-soft": "color-mix(in srgb, var(--clr-accent) 10%, #ffffff)"
+  }
+}
